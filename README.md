@@ -1,6 +1,6 @@
 <header>
   <h1>Olá! Me chamo Davi.</h1>
-  <p>Sou dev iniciante, atualmente estudo por conta mas pretendo entrar na faculdade de Ciência da Computação ainda esse ano. Estudo desenvolvimento Web front e back-end, embora tenha entrado no mundo da programação por codar joguinhos nessas engines mais famosas que existem ai.</p>
+  <p>Sou dev iniciante, atualmente estou cursando Ciência e Tecnologia na Unifesp e pretendo fazer Ciência da Computação como formação específica. Estudo desenvolvimento Web front e back-end, embora tenha entrado no mundo da programação por codar joguinhos nessas engines mais famosas que existem ai.</p>
 </header>
 <section>
   <h2>Tecnologias que tenho me aprofundado ultimamente:</h2>
