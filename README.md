@@ -40,5 +40,5 @@ contato: davicustodio9d@gmail.com.</p>
   </ul>
 </section>
 <section><p>
-  Sou uma pessoa curiosa que ama aprender e um grande amante de tecnologia. Amo codar e amo poder trabalhar como Dev, as vezes nem me parece que realmente estou trabalhando de tão divertido que é para mim.
+  Sou uma pessoa curiosa que ama aprender e um grande amante de tecnologia.
 </p></section>
