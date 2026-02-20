@@ -1,6 +1,14 @@
 <header>
   <h1>Olá! Me chamo Davi.</h1>
-  <p>Sou dev iniciante, atualmente estou cursando Ciência e Tecnologia na Unifesp e pretendo fazer Ciência da Computação como formação específica. Estudo desenvolvimento Web front e back-end, embora tenha entrado no mundo da programação por codar joguinhos nessas engines mais famosas que existem ai.</p>
+  <p>Sou estudante de Ciência da Computação na UNIFESP, com grande interesse em desenvolvimento de software. Programo desde os 13 anos de idade.
+
+Já atuei como freelancer, desenvolvendo landing pages e corrigindo bugs de front-end. Na universidade, faço parte de uma equipe que desenvolve jogos educacionais utilizando Unity, onde atuo como líder da equipe de desenvolvimento de um dos projetos.
+
+Ao longo dos anos, trabalhei com diversas tecnologias e ferramentas, incluindo Python, JavaScript, TypeScript, Node.js, Django, React, Java, Unity e Godot.
+
+Estou sempre buscando aprender e evoluir tecnicamente. Atualmente, procuro uma oportunidade de estágio para iniciar oficialmente minha carreira profissional.
+
+contato: davicustodio9d@gmail.com.</p>
 </header>
 <section>
   <h2>Tecnologias que tenho me aprofundado ultimamente:</h2>
